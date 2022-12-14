@@ -1,6 +1,6 @@
 # FA22-DS-60645-01_GROUP5_Safety-Initative-for-South-Bend
 
-Interactive Dashboard: http://127.0.0.1:4389/
+Click the following link to view our Interactive Dashboard: http://127.0.0.1:4389/
 
 Welcome to Group 5's Interactive Dashboard, where we focus increasing visibility and safety among school districts in the city of South Bend, Indiana. We hope our dashboard can be used to brief the Mayor of South Bend, Indiana regarding our saftey initiative. Using the link above, will direct you to our interactive dashboard that consist of five tabs. The first tab provides a descriptive summary of all the information provided by the other tabs. Each of the four following tabs were used as relevant metrics in our overall goal in making South Bend a safer and brighter place, especially for kids. These metrics included street lights luminosity, active and code enforcement cases, and the locations of abandon properties in relations to the location and type of school systems. 
 
