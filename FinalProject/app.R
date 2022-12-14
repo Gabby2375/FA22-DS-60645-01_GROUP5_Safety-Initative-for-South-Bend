@@ -14,21 +14,6 @@ library(DT)
 library(nngeo)
 library(viridis)
 library(scan)
-# Connects to Rshiny
-library(rsconnect)
-# uses the latest version
-if(!require("devtools"))
-  # install.packages("devtools")
-  devtools::install_github("rstudio/rsconnect")
-#avoids re-downloading cache data
-options(tigris_use_cache = TRUE)
-
-#Create account with ShinyApp
-# authorize account
-rsconnect::setAccountInfo(name = scan("token_key_myaccount.txt",what="character")[1],
-                          token = scan("token_key_myaccount.txt",what="character")[2],
-                          secret = scan("token_key_myaccount.txt",what="character")[3])
-
 
 # Street Light Data
 
